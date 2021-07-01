@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIRSapp", "NIRSapp\NIRSapp.csproj", "{B421DA61-7145-4D1D-98D6-5BE52D615613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIRScore", "NIRScore\NIRScore.csproj", "{86BB26F8-0959-43AB-8CB3-5EC56D0478F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIRScli", "NIRScli\NIRScli.csproj", "{57787012-DA4C-4568-A14F-1B9162414593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B421DA61-7145-4D1D-98D6-5BE52D615613}.Debug|x86.ActiveCfg = Debug|x86
+		{B421DA61-7145-4D1D-98D6-5BE52D615613}.Debug|x86.Build.0 = Debug|x86
+		{B421DA61-7145-4D1D-98D6-5BE52D615613}.Release|x86.ActiveCfg = Release|x86
+		{B421DA61-7145-4D1D-98D6-5BE52D615613}.Release|x86.Build.0 = Release|x86
+		{86BB26F8-0959-43AB-8CB3-5EC56D0478F5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86BB26F8-0959-43AB-8CB3-5EC56D0478F5}.Debug|x86.Build.0 = Debug|Any CPU
+		{86BB26F8-0959-43AB-8CB3-5EC56D0478F5}.Release|x86.ActiveCfg = Release|Any CPU
+		{86BB26F8-0959-43AB-8CB3-5EC56D0478F5}.Release|x86.Build.0 = Release|Any CPU
+		{57787012-DA4C-4568-A14F-1B9162414593}.Debug|x86.ActiveCfg = Debug|x86
+		{57787012-DA4C-4568-A14F-1B9162414593}.Debug|x86.Build.0 = Debug|x86
+		{57787012-DA4C-4568-A14F-1B9162414593}.Release|x86.ActiveCfg = Release|x86
+		{57787012-DA4C-4568-A14F-1B9162414593}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
